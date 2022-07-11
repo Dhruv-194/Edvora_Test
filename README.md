@@ -34,6 +34,7 @@ The app consists of a 'Tablayout' having different sections which displays the d
 - Retrofit Library : to fetch the ride details and the user details. 
 
 ## Demo/Screenshots - 
+<img src="https://github.com/Dhruv-194/Edvora_Test/blob/master/edvoratest_gif.gif" width="200" height="400"/>
 
 ## Future Enhancements - 
 - Add a fliter button and filter the rides according to the state and city. 
