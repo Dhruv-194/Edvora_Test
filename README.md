@@ -33,8 +33,11 @@ The app consists of a 'Tablayout' having different sections which displays the d
 - MVVM architecture : viewModels and Livedata to live update the itemcount of the upcoming and past rides and their respective list. 
 - Retrofit Library : to fetch the ride details and the user details. 
 
-## Demo/Screenshots - 
+## Demo/Test - 
 <img src="https://github.com/Dhruv-194/Edvora_Test/blob/master/edvoratest_gif.gif" width="200" height="400"/>
+
+ > ### Test the app [here](https://appetize.io/app/wfxrglxjt2t75vwn3wsbg4qk5m)
+ > ### Apk file [here](https://github.com/Dhruv-194/Edvora_Test/blob/master/app-debug.apk?raw=true)
 
 ## Future Enhancements - 
 - Add a fliter button and filter the rides according to the state and city. 
